@@ -4,6 +4,7 @@ Este é um sistema de cadastro simples que utiliza html e css para respectivamen
 pegar os valores do formulario e salva-los em um banco de dados no mysql
 
 ![Imagem do WhatsApp de 2024-11-19 à(s) 21 09 51_cec4e884](https://github.com/user-attachments/assets/5df94dbf-bfc6-480a-b6a2-32205ef220d6)
+![Imagem do WhatsApp de 2024-11-19 à(s) 21 21 01_9d67d1ea](https://github.com/user-attachments/assets/95acb97c-b555-401b-98fa-237abbce4070)
 
 ##🚀 Funcionalidades
 
