@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Cadastro</title>
+</head>
+
+<body>
+    <div class="cad">
+        <h1>Cadastre-se</h1>
+        <form action="envia.php" method="post">
+            
+                <label for="nome" class="input">Nome</label>
+                <input type="text" name="nome" class="input" id="" required placeholder="Digite seu nome" autocomplete="False">
+                <label for="idade" class="input">idade</label>
+                <input type="text" name="idade" id="" class="input" placeholder="DIgite sua idade" required>
+                <label for="cpf" class="input">cpf</label>
+                <input type="text" name="cpf" class="input" id="" required maxlength="14" placeholder="Digite seu cpf">
+
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+</body>
+</html>
